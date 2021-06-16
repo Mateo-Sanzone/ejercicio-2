@@ -1,0 +1,61 @@
+
+body {
+    background-color: #F25F5C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+header {
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    text-indent: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#mensajes {
+    background-color: #ffce47;
+}
+
+#medios {
+    background-color: #A0B0EB;
+}
+
+#dispositivos {
+    background-color: #58A4B0;
+}
+
+#reglas {
+    background-color: #4A4063;
+}
+
+#link {
+    background-color: #bdbdbd;
+}
+
+footer {
+    text-align: right;
+    font-size: 15px;
+    margin-right: 20px;
+}

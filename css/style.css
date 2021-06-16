@@ -1,0 +1,75 @@
+
+
+body{
+    background-color: #F25F5C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+header {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;    
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: justify;
+    text-indent: 25px;
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+#listaprimera {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#tamaño {
+    background-color: #ffce47;
+}
+
+#funciones {
+    background-color: #A0B0EB;
+}
+
+#topología {
+    background-color: #58A4B0;
+}
+
+#def {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#link {
+    background-color: #bdbdbd;
+}
+
+footer {
+    font-size: 15px;
+    text-align: right;
+    margin-right: 20px;
+}
